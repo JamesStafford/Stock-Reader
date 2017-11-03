@@ -418,6 +418,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Stock Reader/Stock_Reader.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 8L54MA4XCB;
 				INFOPLIST_FILE = "Stock Reader/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jstafford.Stock-Reader";
@@ -433,6 +434,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Stock Reader/Stock_Reader.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 8L54MA4XCB;
 				INFOPLIST_FILE = "Stock Reader/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jstafford.Stock-Reader";
